@@ -1,0 +1,29 @@
+h1 {
+  color: darkgreen;
+}
+
+h1,
+h3 {
+  font-family: Georgia;
+  text-align: center;
+}
+
+p {
+  line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+label {
+  text-transform: uppercase;
+}
+
+img {
+  float: left;
+}
